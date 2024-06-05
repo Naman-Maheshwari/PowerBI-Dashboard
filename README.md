@@ -1,1 +1,2 @@
-# PowerBI-Dashboard
+# PowerBI_Dashboard
+Built an attractive and eye-catching HR dashboard using Power BI. Began this project by importing data and creating an employee demographics page that gives us the overall demographic outlook of the organization. Then created pie charts and doughnut charts to visualize gender and racial diversity.Then created an employee detail page that will provide all the important information about any employee with just a click. Also explored buttons, themes, slicers and filters to make the dashboard more interactive and useful.
